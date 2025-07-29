@@ -14,8 +14,7 @@ Bu layihədə pizza satış məlumatları üzərində SQL və Power BI vasitəsi
 - 🔖 Bookmark funksiyası ilə bir səhifədə iki fərqli dashboard arasında keçid
 
 
-👤 Müəllif
-Elmar Tağılı  
-Data Analitika üzrə başlanğıc səviyyəli analitik  
+👤
+Elmar Tağılı   
 📧 tagilielmar422@gmail.com  
 🔗 https://www.linkedin.com/in/elmar-ta%C4%9F%C4%B1l%C4%B1-10450732b/
